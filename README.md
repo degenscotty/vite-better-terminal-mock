@@ -6,7 +6,7 @@
 
 | [![Signal Feed](images/CleanShot%202026-03-17%20at%2014.26.36@2x.png)](images/CleanShot%202026-03-17%20at%2014.26.36@2x.png) | [![Details Panel](images/CleanShot%202026-03-17%20at%2014.26.44@2x.png)](images/CleanShot%202026-03-17%20at%2014.26.44@2x.png) |
 |:---:|:---:|
-| Signal feed & positions | Details, charts & order book |
+| Wallet Section | Vault Section |
 
 </div>
 
@@ -14,7 +14,9 @@
 
 ## What it is
 
-**Better Terminal** is a trading-style UI for prediction markets. It displays a live signal feed (BUY/SELL with confidence scores), a resizable detail panel with charts and order book, and panels for positions, wallet, and vault.
+**Better Terminal** is a trading-style UI mockup for prediction markets. It displays a live signal feed (BUY/SELL with confidence scores), a resizable detail panel with charts and order book, and panels for positions, wallet, and vault.
+
+> **Note:** This is a frontend mockup only. All data is mock — no backend or API connection.
 
 ## Tech stack
 
